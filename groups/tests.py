@@ -1,12 +1,6 @@
 """
 from django.test import TestCase
-# Create your tests here.
-import pytest
-
-class TestProductModel(TestCase):
-
-    def test_save():
-        assert 500 == 500
+# Create your tests here.s
 """
 import unittest
 from django.test import Client
